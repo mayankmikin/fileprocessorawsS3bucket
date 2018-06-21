@@ -1,7 +1,7 @@
 amazonProperties:
   endpointUrl: https://s3.us-east-2.amazonaws.com
-  accessKey: AKIAIF4DU333TO7KWPPQ
-  secretKey: 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
+  accessKey: xxxxxxxxxx
+  secretKey: xxxxxxxxxx
   bucketName: mynk-bucket
 
 
