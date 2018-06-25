@@ -34,6 +34,10 @@ dependencies {
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 	// https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk
 	compile group: 'com.amazonaws', name: 'aws-java-sdk', version: '1.11.133'
+	// https://mvnrepository.com/artifact/io.findify/s3mock
+	testCompile group: 'io.findify', name: 's3mock_2.12', version: '0.1.8'
+
+	
 	
 }
 

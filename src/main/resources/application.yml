@@ -1,10 +1,11 @@
 amazonProperties:
-  endpointUrl: https://s3.us-east-2.amazonaws.com
-  accessKey: xxxxxxxxxx
-  secretKey: xxxxxxxxxx
-  bucketName: mynk-bucket
-
-
+  #endpointUrl: https://s3.us-east-2.amazonaws.com
+  endpointUrl: https://localhost:8001
+  accessKey: xxxxxxxx
+  secretKey: xxxxxxxxxxxx
+  #bucketName: mynk-bucket
+  bucketName: bucket1
+  directorypathtomock: /home/mayank/tmp/s3mock
 
 cloud.aws.region.auto: true
 cloud.aws.region.static: us-east-2
